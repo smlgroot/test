@@ -1,0 +1,32 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<script type="text/javascript">
+	function showAndroidToast(toast) {
+		element = document.getElementById('animated');
+		element.style.backgroundColor = 'green';
+		//alert(element.style.webkitAnimationPlayState);
+		element.style.webkitAnimationPlayState='running';
+		//Android.showToast(toast+':'+element.style.webkitAnimationPlayState);
+		
+	}
+	Effect.Shake('shake_demo');
+</script>
+<script src="javascripts/prototype.js" type="text/javascript"></script>
+<script src="javascripts/scriptaculous.js" type="text/javascript"></script>
+<link href="smlg.css" media="screen" rel="stylesheet" type="text/css">
+</head>
+<body>
+
+	<p>T</p>
+
+	<button class="g-button"
+		onClick="showAndroidToast('Hello AndroidQQWQW!')">Standard
+		Button</button>
+
+	<div id="animated">KALIMERA :*</div>
+<div id="shake_demo" style="width:150px; height:40px; background:#ccc; text-align:center;>
+  <a href="#" onclick="new Effect.Shake('shake_demo'); return false;" style="line-height:40px;">Click me to shake!</a>
+</div>
+</body>
+</html>
