@@ -1,0 +1,19 @@
+{
+    "id": "ExtBox1-ext-gen33090",
+    "type": "jsonstore",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "data": "[{\n\t\tid : '1',\n\t\tdesc : 'Basica'\n\t}, {\n\t\tid : '2',\n\t\tdesc : 'Contigua'\n\t}, {\n\t\tid : '3',\n\t\tdesc : 'Ext. Contigua'\n\t}, {\n\t\tid : '4',\n\t\tdesc : 'Especial'\n\t}\n]",
+        "model": "TipoCasilla",
+        "storeId": "tipoCasillaStore",
+        "designer|userClassName": "TipoCasillaStore"
+    },
+    "customConfigs": [],
+    "designerId": "775b89a8-a5c7-475a-bb3d-7ae623735ff5",
+    "$viewOrder": 0,
+    "expanded": true
+}

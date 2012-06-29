@@ -1,0 +1,94 @@
+{
+    "name": "test1",
+    "settings": {
+        "urlPrefix": "test1",
+        "spacesToIndent": 4,
+        "codeGenFormat": "Class",
+        "exportPath": "C:/Apache22/htdocs/test1",
+        "extPath": "http://extjs.cachefly.net/touch/sencha-touch-2.0.1/",
+        "senchaIoKey": "",
+        "senchaIoPath": "http://extjs.cachefly.net/designer/IO/",
+        "lineEnding": "CRLF",
+        "instantiateStore": true,
+        "genTimestamps": false,
+        "saveOnDeploy": false,
+        "appName": "MyApp",
+        "mapsAPI": "http://maps.google.com/maps/api/js?sensor=true"
+    },
+    "xdsVersion": "2.0.0",
+    "xdsBuild": "442",
+    "framework": "touch20",
+    "topInstanceFileMap": {
+        "7fb312b7-733a-4fd7-a857-8812d3131878": {
+            "paths": [
+                "metadata/view/MainTabPanel",
+                "app/view/override/MainTabPanel.js",
+                "app/view/MainTabPanel.js"
+            ],
+            "className": "MainTabPanel"
+        },
+        "9c957893-78e7-46e8-bc32-3dacc38d1f8e": {
+            "paths": [
+                "metadata/view/VotosPanel",
+                "app/view/override/VotosPanel.js",
+                "app/view/VotosPanel.js"
+            ],
+            "className": "VotosPanel"
+        },
+        "af97f232-9835-430f-84cc-083f2d2c3142": {
+            "paths": [
+                "metadata/view/InfoPanel",
+                "app/view/override/InfoPanel.js",
+                "app/view/InfoPanel.js"
+            ],
+            "className": "InfoPanel"
+        },
+        "efdb6c4a-b0f0-4fc3-91e5-1836fc828750": {
+            "paths": [
+                "metadata/view/FotoPanel",
+                "app/view/override/FotoPanel.js",
+                "app/view/FotoPanel.js"
+            ],
+            "className": "FotoPanel"
+        },
+        "a59069b4-321b-4665-a198-1b0495038b12": {
+            "paths": [
+                "metadata/view/EnviarPanel",
+                "app/view/override/EnviarPanel.js",
+                "app/view/EnviarPanel.js"
+            ],
+            "className": "EnviarPanel"
+        },
+        "2fa6defb-0f52-48f5-b80e-e60157aa1a78": {
+            "paths": [
+                "metadata/view/ConfigPanel",
+                "app/view/override/ConfigPanel.js",
+                "app/view/ConfigPanel.js"
+            ],
+            "className": "ConfigPanel"
+        },
+        "775b89a8-a5c7-475a-bb3d-7ae623735ff5": {
+            "paths": [
+                "metadata/store/TipoCasillaStore",
+                "app/store/override/TipoCasillaStore.js",
+                "app/store/TipoCasillaStore.js"
+            ],
+            "className": "TipoCasillaStore"
+        },
+        "b83013d9-6998-47ae-af51-8237474903d4": {
+            "paths": [
+                "metadata/model/TipoCasilla",
+                "app/model/override/TipoCasilla.js",
+                "app/model/TipoCasilla.js"
+            ],
+            "className": "TipoCasilla"
+        }
+    },
+    "expandedState": {
+        "data": true,
+        "model": true,
+        "component": true,
+        "controller": true,
+        "resource": true
+    }
+}

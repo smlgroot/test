@@ -1,0 +1,119 @@
+{
+    "id": "ExtBox1-ext-gen9288",
+    "type": "panel",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|userClassName": "InfoPanel",
+        "designer|userAlias": "infopanel"
+    },
+    "customConfigs": [],
+    "designerId": "af97f232-9835-430f-84cc-083f2d2c3142",
+    "$viewOrder": 2,
+    "expanded": false,
+    "cn": [
+        {
+            "id": "ExtBox1-ext-gen9530",
+            "type": "textfield",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "id": "estado",
+                "label": "Estado",
+                "name": "estado",
+                "designer|userClassName": "MyTextField"
+            },
+            "customConfigs": [],
+            "expanded": true
+        },
+        {
+            "id": "ExtBox1-ext-gen38780",
+            "type": "textfield",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "label": "Ciudad",
+                "name": "ciudad",
+                "designer|userClassName": "MyTextField1"
+            },
+            "customConfigs": [],
+            "expanded": true
+        },
+        {
+            "id": "ExtBox1-ext-gen37352",
+            "type": "numberfield",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "label": "CP",
+                "name": "cp",
+                "designer|userClassName": "MyNumberField1"
+            },
+            "customConfigs": [],
+            "expanded": true
+        },
+        {
+            "id": "ExtBox1-ext-gen9819",
+            "type": "textfield",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "label": "Distrito",
+                "name": "distrito",
+                "designer|userClassName": "MyTextField2"
+            },
+            "customConfigs": [],
+            "expanded": true
+        },
+        {
+            "id": "ExtBox1-ext-gen30486",
+            "type": "textfield",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "label": "Sección",
+                "name": "seccion",
+                "designer|userClassName": "MyTextField3"
+            },
+            "customConfigs": [],
+            "expanded": true
+        },
+        {
+            "id": "ExtBox1-ext-gen32733",
+            "type": "selectfield",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "label": "Tipo Casilla",
+                "name": "tipo-casilla",
+                "displayField": "desc",
+                "store": "tipoCasillaStore",
+                "valueField": "id",
+                "designer|userClassName": "MySelectField"
+            },
+            "customConfigs": [],
+            "expanded": true
+        }
+    ]
+}

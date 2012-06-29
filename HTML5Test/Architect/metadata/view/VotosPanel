@@ -1,0 +1,123 @@
+{
+    "id": "ExtBox1-ext-gen2502",
+    "type": "panel",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|userClassName": "VotosPanel",
+        "designer|userAlias": "votospanel"
+    },
+    "customConfigs": [],
+    "designerId": "9c957893-78e7-46e8-bc32-3dacc38d1f8e",
+    "$viewOrder": 1,
+    "expanded": false,
+    "cn": [
+        {
+            "id": "ExtBox1-ext-gen13413",
+            "type": "button",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "icon": null,
+                "iconCls": "home",
+                "iconMask": true,
+                "text": "Party1 - 1",
+                "designer|userClassName": "MyButton"
+            },
+            "customConfigs": [],
+            "expanded": true
+        },
+        {
+            "id": "ExtBox1-ext-gen13557",
+            "type": "button",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "iconCls": "info",
+                "iconMask": true,
+                "text": "MyButton1",
+                "designer|userClassName": "MyButton1"
+            },
+            "customConfigs": [],
+            "expanded": true
+        },
+        {
+            "id": "ExtBox1-ext-gen13702",
+            "type": "button",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "iconCls": "locate",
+                "iconMask": true,
+                "text": "MyButton2",
+                "designer|userClassName": "MyButton2"
+            },
+            "customConfigs": [],
+            "expanded": true
+        },
+        {
+            "id": "ExtBox1-ext-gen13848",
+            "type": "button",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "iconCls": "download",
+                "iconMask": true,
+                "text": "MyButton3",
+                "designer|userClassName": "MyButton3"
+            },
+            "customConfigs": [],
+            "expanded": true
+        },
+        {
+            "id": "ExtBox1-ext-gen13995",
+            "type": "button",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "iconCls": "maps",
+                "iconMask": true,
+                "text": "MyButton4",
+                "designer|userClassName": "MyButton4"
+            },
+            "customConfigs": [],
+            "expanded": true
+        },
+        {
+            "id": "ExtBox1-ext-gen14143",
+            "type": "button",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "ui": "decline",
+                "iconCls": "time",
+                "iconMask": true,
+                "text": "MyButton5",
+                "designer|userClassName": "MyButton5"
+            },
+            "customConfigs": [],
+            "expanded": true
+        }
+    ]
+}

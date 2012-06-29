@@ -1,0 +1,64 @@
+{
+    "id": "ExtBox1-ext-gen26413",
+    "type": "panel",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|userClassName": "ConfigPanel"
+    },
+    "customConfigs": [],
+    "designerId": "2fa6defb-0f52-48f5-b80e-e60157aa1a78",
+    "$viewOrder": 5,
+    "expanded": false,
+    "cn": [
+        {
+            "id": "ExtBox1-ext-gen26741",
+            "type": "radiofield",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "label": "Field",
+                "designer|userClassName": "MyRadioButton"
+            },
+            "customConfigs": [],
+            "expanded": true
+        },
+        {
+            "id": "ExtBox1-ext-gen26895",
+            "type": "togglefield",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "label": "Field",
+                "designer|userClassName": "MyToggleField"
+            },
+            "customConfigs": [],
+            "expanded": true
+        },
+        {
+            "id": "ExtBox1-ext-gen27050",
+            "type": "emailfield",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "label": "Field",
+                "placeHolder": "email@example.com",
+                "designer|userClassName": "MyEmailField"
+            },
+            "customConfigs": [],
+            "expanded": true
+        }
+    ]
+}

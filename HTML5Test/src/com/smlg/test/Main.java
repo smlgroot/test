@@ -33,6 +33,6 @@ public class Main extends DroidGap {
 		//super.loadUrl("file:///android_asset/www/index.html", 5000);
 //		super.loadUrl("file:///android_asset/www/index.html");
 		//super.loadUrl("file:///android_asset/www/mobile_website/app.html");
-		super.loadUrl("file:///android_asset/www/production/index.html");
+		super.loadUrl("file:///android_asset/www/testing/index.html");
 	}
 }

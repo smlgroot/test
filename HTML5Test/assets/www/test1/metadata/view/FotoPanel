@@ -1,0 +1,51 @@
+{
+    "id": "ExtBox1-ext-gen16953",
+    "type": "panel",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|userClassName": "FotoPanel",
+        "designer|userAlias": "fotopanel"
+    },
+    "customConfigs": [],
+    "designerId": "efdb6c4a-b0f0-4fc3-91e5-1836fc828750",
+    "$viewOrder": 3,
+    "expanded": false,
+    "cn": [
+        {
+            "id": "ExtBox1-ext-gen17178",
+            "type": "button",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "iconCls": "organize",
+                "iconMask": true,
+                "text": "F",
+                "designer|userClassName": "MyButton6"
+            },
+            "customConfigs": [],
+            "expanded": true
+        },
+        {
+            "id": "ExtBox1-ext-gen17636",
+            "type": "image",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "height": 201,
+                "designer|userClassName": "MyImage"
+            },
+            "customConfigs": [],
+            "expanded": true
+        }
+    ]
+}
