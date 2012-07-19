@@ -26,7 +26,7 @@ public class Main extends DroidGap {
 		 * myWebView.addJavascriptInterface(new JavaScriptInterface(this),
 		 * "Android");
 		 */
-
+			
 		super.onCreate(savedInstanceState);
 		//super.setStringProperty("loadingDialog", "Starting your app...");
 		//super.setIntegerProperty("splashscreen", R.drawable.android);
